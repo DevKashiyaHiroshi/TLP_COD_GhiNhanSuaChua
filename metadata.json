@@ -1,0 +1,6 @@
+{
+  "name": "ISO Repair Ticket WebApp Manager",
+  "description": "Hệ thống quản lý, mô phỏng và xuất mã nguồn WebApp quản lý Phiếu đề nghị & ghi nhận sửa chữa ISO tích hợp Google Sheets, Drive và Gmail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
